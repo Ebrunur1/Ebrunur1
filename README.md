@@ -19,6 +19,6 @@ I am a frontend developer who loves react!
 
 <b>📊 My GitHub Stats 📊</b>
 
-<a href="http://www.github.com/ebrunur1"><img src="https://github-readme-stats.vercel.app/api?username=ebrunur1&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="ebrunur1's GitHub stats" /></a>
+<a href="http://www.github.com/ebrunur1"><img src="https://github-readme-stats.vercel.app/api?username=ebrunur1&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="ebrunur1's GitHub stats" /></a>
 
-<a href="http://www.github.com/ebrunur1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrunur1&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ebrunur1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrunur1&stroke=f97316&background=000000&ring=facc15&fire=facc15&currStreakNum=f97316&currStreakLabel=facc15&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
