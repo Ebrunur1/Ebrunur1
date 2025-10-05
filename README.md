@@ -18,5 +18,3 @@ I am a frontend developer who loves react!
 ### 📊 My GitHub Stats 📊
 
 <a href="http://www.github.com/ebrunur1"><img src="https://github-readme-stats.vercel.app/api?username=ebrunur1&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="ebrunur1's GitHub stats" /></a>
-
-<a href="http://www.github.com/ebrunur1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrunur1&stroke=f97316&background=000000&ring=facc15&fire=facc15&currStreakNum=f97316&currStreakLabel=facc15&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
